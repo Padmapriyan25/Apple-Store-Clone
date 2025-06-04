@@ -17,3 +17,9 @@ This is a static clone of the Apple official website designed for desktop screen
 
 - HTML5
 - CSS3
+
+## ⚠️ Note
+
+- This version is optimized only for desktop view.
+- No JavaScript or responsive design is included.
+- Not affiliated with or endorsed by Apple Inc. This is for educational use only.
