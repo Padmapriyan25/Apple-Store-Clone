@@ -20,7 +20,7 @@ nav{
     align-items: center;
     justify-content: center;
     z-index: 3;
-    position: relative;
+    position: relative;   
     background-color: #f5f5f7;
 }
 
@@ -318,6 +318,7 @@ nav ul li:hover section{
 .card_text .highlight,.card_text_w .highlight{
     font-size: 17px;
     background: linear-gradient(to right, blue, purple, pink, red, orange);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-bottom: 8px;
@@ -551,6 +552,7 @@ width: 340px;
 
 #highlight{
     background: linear-gradient(to right, blue, purple, pink, red, orange);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -953,6 +955,7 @@ width: 340px;
 
 #colour_7{
     background: linear-gradient(to right, blue, purple, pink, red, orange);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
